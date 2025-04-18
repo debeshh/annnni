@@ -15,7 +15,7 @@ if "messages" not in st.session_state:
 if "chat_history" not in st.session_state:
     st.session_state.chat_history = []
 
-WEBHOOK_URL = "https://annnni.app.n8n.cloud/webhook/7df913c7-d1ba-42a3-bf95-6f6a769e866d/chat"
+WEBHOOK_URL = "https://zorooo.app.n8n.cloud/webhook/7df913c7-d1ba-42a3-bf95-6f6a769e866d/chat"
 API_TOKEN = "your-bearer-token-here" 
 
 for message in st.session_state.chat_history:
