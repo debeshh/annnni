@@ -2,6 +2,9 @@
 
 A streamlined Streamlit chat interface that connects to an LLM through n8n workflows.
 
+## DEMO
+https://annnni.streamlit.app/
+
 ## Overview
 
 This application provides a simple yet powerful chat interface for interacting with a language model through n8n webhooks. The app maintains a session for each user and preserves chat history within the session.
